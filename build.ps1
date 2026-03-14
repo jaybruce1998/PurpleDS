@@ -1,0 +1,1 @@
+wsl -e bash -c 'export DEVKITARM=/opt/devkitpro/devkitARM && export DEVKITPRO=/opt/devkitpro && export PATH="/opt/devkitpro/devkitARM/bin:$PATH" && make'

@@ -20,6 +20,7 @@ TARGET		:=	$(shell basename $(CURDIR))
 BUILD		:=	build
 SOURCES		:=	source
 INCLUDES	:=	include
+NITRO		:=	nitrofs
 
 #---------------------------------------------------------------------------------
 # options for code generation
@@ -43,6 +44,11 @@ LDFLAGS	=	-specs=ds_arm9.specs -g $(ARCH) -Wl,-Map,$(notdir $*.map)
 #---------------------------------------------------------------------------------
 LIBS	:=	-lnds9
 
+# automatically add libraries for NitroFS
+ifneq ($(strip $(NITRO)),)
+LIBS := -lfilesystem -lfat $(LIBS)
+endif
+
 #---------------------------------------------------------------------------------
 # list of directories containing libraries, this must be the top level containing
 # include and lib
@@ -59,15 +65,18 @@ ifneq ($(BUILD),$(notdir $(CURDIR)))
 export OUTPUT	:=	$(CURDIR)/$(TARGET)
 
 export VPATH	:=	$(foreach dir,$(SOURCES),$(CURDIR)/$(dir)) \
-			$(foreach dir,$(DATA),$(CURDIR)/$(dir)) \
 			$(foreach dir,$(GRAPHICS),$(CURDIR)/$(dir))
+
+# prepare NitroFS directory
+ifneq ($(strip $(NITRO)),)
+  export NITRO_FILES := $(CURDIR)/$(NITRO)
+endif
 
 export DEPSDIR	:=	$(CURDIR)/$(BUILD)
 
 CFILES		:=	$(foreach dir,$(SOURCES),$(notdir $(wildcard $(dir)/*.c)))
 CPPFILES	:=	$(foreach dir,$(SOURCES),$(notdir $(wildcard $(dir)/*.cpp)))
 SFILES		:=	$(foreach dir,$(SOURCES),$(notdir $(wildcard $(dir)/*.s)))
-BINFILES	:=	$(foreach dir,$(DATA),$(notdir $(wildcard $(dir)/*.*)))
 
 #---------------------------------------------------------------------------------
 # use CXX for linking C++ projects, CC for standard C
