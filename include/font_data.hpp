@@ -13,9 +13,10 @@ extern "C" {
 
 // Font character data - maps characters to 8x8 bitmasks
 // Special values: 0 = male symbol, 1 = female symbol
-extern std::map<int, unsigned long long> FONT_DATA;
+extern std::map<unsigned char, unsigned long long> FONT_DATA;
 void initializeFont();
 void drawText(const char* text, int startX, int startY, u16 color, u16* buffer);
+void drawChar(char c, int x, int y, u16 color, u16* buffer);
 
 #ifdef __cplusplus
 }
