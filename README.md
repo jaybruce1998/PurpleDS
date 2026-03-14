@@ -1,7 +1,7 @@
 CONTROLS:<br/>
 <br/>
 A: Auto-battle, selects the first option on most menus<br/>
-B: Cancel<br/>
+B: Cancel/Run Away<br/>
 X: Opens menu<br/>
 L/R: Cycles through menus<br/>
 Start: Save<br/>
