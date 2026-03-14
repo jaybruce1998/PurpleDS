@@ -3,7 +3,7 @@
 #include <nds.h>
 
 // Initialize font data map
-std::map<int, unsigned long long> FONT_DATA;
+std::map<unsigned char, unsigned long long> FONT_DATA;
 
 void initializeFont() {
     FONT_DATA['A'] = 0x0041413E22141408ULL;
@@ -104,6 +104,34 @@ void initializeFont() {
     FONT_DATA[1] = 0x08083E081C22221CULL;
 }
 
+void drawChar(char c, int x, int y, u16 color, u16* buffer) {
+    // Get font data for this character
+    unsigned long long bitmask = FONT_DATA[c];
+    
+    // Check for special male/female symbols
+    /*if (c == 0) {
+        bitmask = FONT_DATA[0]; // Male symbol
+    } else if (c == 1) {
+        bitmask = FONT_DATA[1]; // Female symbol
+    } else {
+        // Regular character
+        if (FONT_DATA.find(c) != FONT_DATA.end()) {
+            bitmask = FONT_DATA[c];
+        }
+    }*/
+    
+    // Draw 8x8 character using bitmask
+    for (int py = 0; py < 8; py++) {
+        for (int px = 0; px < 8; px++) {
+            // Check if this pixel should be drawn
+            if (bitmask & (1ULL << (py * 8 + px))) {
+                // Set pixel to specified color
+                buffer[(y + py) * 256 + (x + px)] = color;
+            }
+        }
+    }
+}
+
 void drawText(const char* text, int startX, int startY, u16 color, u16* buffer) {
     int x = startX;
     int y = startY;
@@ -118,41 +146,14 @@ void drawText(const char* text, int startX, int startY, u16 color, u16* buffer) 
             continue;
         }
         
-        if (c == ' ') {
-            // Space: just advance
-            x += 8;
-            continue;
+        if (c != ' ') {
+            drawChar(c, x, y, color, buffer);
         }
-        
-        // Get font data for this character
-        unsigned long long bitmask = 0;
-        
-        // Check for special male/female symbols
-        if (c == 0) {
-            bitmask = FONT_DATA[0]; // Male symbol
-        } else if (c == 1) {
-            bitmask = FONT_DATA[1]; // Female symbol
-        } else {
-            // Regular character
-            if (FONT_DATA.find(c) != FONT_DATA.end()) {
-                bitmask = FONT_DATA[c];
-            }
-        }
-        
-        // Draw 8x8 character using bitmask
-        for (int py = 0; py < 8; py++) {
-            for (int px = 0; px < 8; px++) {
-                if (x + px < 256 && y + py < 192) {
-                    // Check if this pixel should be drawn
-                    if (bitmask & (1ULL << (py * 8 + px))) {
-                        // Set pixel to specified color
-                        buffer[(y + py) * 256 + (x + px)] = color;
-                    }
-                }
-            }
-        }
-        
         // Advance to next character position
         x += 8;
+        if(x > 248) {
+            x = startX;
+            y += 8;
+        }
     }
 }
