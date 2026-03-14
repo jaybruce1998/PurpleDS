@@ -1,0 +1,311 @@
+BluesHouse;DAISY 6 4 UP/Have you met Noah? Yeah, he's a... well, he's my brother!
+BikeShop;BIKE_SHOP_CLERK 6 2 DOWN/How did you get back here?
+MIDDLE_AGED_WOMAN 5 6 UP/Oh boy, I sure love biking! I hear there's a place called Cycling Road, I can't wait to go!
+CeladonChiefHouse;GRAMPS 4 2 DOWN/Hehe, I am the Chief of this town! Learn some respect sonny!
+ROCKET 1 4 DOWN/If there's one thing I learned from being a Rocket, it's to always respect the boss...
+SAILOR 5 6 LEFT/I'm the muscle of this organization, wanna tussle?
+CeladonDiner;COOK 8 5 RIGHT/How did you get back here?
+MIDDLE_AGED_WOMAN 7 2 DOWN/How did you get back here?
+FISHER 5 3 RIGHT/These fools won't feed me! I haven't eaten that much...
+GYM_GUIDE 0 1 DOWN/Ugh, I've been waiting for hours! What's taking them so long?
+CeladonCity;LITTLE_GIRL 8 17 DOWN/Did you know? I'm really small!
+GRAMPS 11 28 UP/Rumor has it that a grampa like me has a move for you...
+GIRL 14 19 UP/Oh? Yeah, I know you have a crush on me!
+GRAMPS 25 22 DOWN/My brothers and I have lived here all of our lives. Maybe now I should go out and catch some pokemon!
+FISHER 32 12 LEFT/Darnit, my elevator broke again! How can I get to the second floor now?
+ROCKET 32 29 RIGHT/Buzz off, chump!
+ROCKET 42 14 RIGHT/Chump off, buzz!
+CeladonHotel;GRANNY 3 1 DOWN/How did you get back here?
+BEAUTY 2 4 DOWN/I sure do LOVE this hotel! Not that you could ever afford it.
+SUPER_NERD 8 4 RIGHT/Wow, that lady sure is a beauty! I wonder if I should talk to her...
+CeladonMansion1F;GRANNY 1 5 DOWN/Tea? No lad, but maybe you'd like some water. I hear you can get some at the department store!
+CeladonMansion3F;BIKE_SHOP_CLERK 0 4 UP/You're working on your pokedex? Hey, me too!
+CLERK 3 4 UP/You're taking on the league challenge? Hey, me too!
+SUPER_NERD 0 7 UP/You're wondering why we're here? Hey, me too!
+SILPH_WORKER_M 2 3 DOWN/Leave me alone, I'm coding a game!
+CeladonMart1F;LINK_RECEPTIONIST 8 3 DOWN/CHUMBA!
+CeladonMansionRoofHouse;HIKER 2 2 DOWN/Alright, fine, you can have my Eevee... just treat it nicely, okay?
+CeladonMart2F;CLERK 5 3 DOWN/How did you get back here?
+CLERK 6 3 DOWN/How did you get back here?
+MIDDLE_AGED_MAN 19 5 DOWN/Hey, do you have any spare change? I spent all my money on balls!
+GIRL 14 4 UP/My daddy loves me sooo much! He bought me, like, a billion balls!
+CeladonMart4F;CLERK 5 7 DOWN/How did you get back here?
+SUPER_NERD 15 5 RIGHT/I looove X items! You can really just trivialize any bettle, heh!
+YOUNGSTER 5 2 RIGHT/I might be young, but I keep getting money from beating my friends! I wonder what I should spend it on...
+CeladonMart3F;CLERK 16 5 DOWN/How did you get back here?
+GAMEBOY_KID 11 6 RIGHT/I sure love playing games! Maybe you should play one, too!
+GAMEBOY_KID 7 2 DOWN/UGH, my eyes hurt, I need to take a break.
+GAMEBOY_KID 8 2 DOWN/No, it broke free! I'd better reset.
+LITTLE_BOY 2 5 UP/Sigh, if only I could afford a game system, too!
+CeladonMart5F;GENTLEMAN 14 5 UP/Hoho, aren't you a feisty one!
+SAILOR 2 6 DOWN/Hey, like these? Yeah, those are MUSCLES!
+CLERK 5 3 DOWN/How did you get back here?
+CLERK 6 3 DOWN/How did you get back here?
+CeladonPokecenter;NURSE 3 1 DOWN/How did you get back here?
+GENTLEMAN 7 3 RIGHT/G'day, mate!
+BEAUTY 10 5 DOWN/I'm so beautiful! I can hardly stand it!!
+LINK_RECEPTIONIST 11 2 DOWN/Oh, did you want to get through here? Yeah, you'd like that, wouldn't you?
+CeladonMartRoof;SUPER_NERD 10 4 LEFT/My glasses look so cool!
+LITTLE_GIRL 5 5 DOWN/EEK, stranger danger!
+CeruleanBadgeHouse;MIDDLE_AGED_MAN 5 3 RIGHT/Yeah I live here, you got a problem with that?
+CeruleanCity;COOLTRAINER_M 31 20 DOWN/Cerulean's waters are so calming... I could stand here all day.
+SUPER_NERD 15 18 UP/Did you know the bridge used to be even longer?
+SUPER_NERD 9 21 RIGHT/I'm cataloging the patterns of the city layout!
+COOLTRAINER_F 29 26 LEFT/The gym's lights can be seen from here at night.
+COOLTRAINER_F 9 27 RIGHT/I love the breeze coming off the water.
+CeruleanGym;GYM_GUIDE 7 10 DOWN/Hey squirt! This gym uses water-type pokemon, I hope you've got a grass-type!
+CeruleanMart;CLERK 0 5 RIGHT/Intruder alert!
+COOLTRAINER_M 3 4 UP/Why yes, I DO come here often!
+COOLTRAINER_F 6 2 RIGHT/Ugh, my boyfriend is such a dork.
+CeruleanPokecenter;NURSE 3 1 DOWN/Intruder alert!
+SUPER_NERD 10 5 DOWN/Misty suuure is pretty! Not that she'd ever like a guy like me.
+GENTLEMAN 4 3 DOWN/Psst... can I set you up with my daughter?
+LINK_RECEPTIONIST 11 2 DOWN/Oh, did you want to get through here? Yeah, you'd like that, wouldn't you?
+CeruleanTrashedHouse;FISHING_GURU 2 1 DOWN/Gosh, this place is a mess! Want to go grab lunch?
+CinnabarGym;GYM_GUIDE 16 13 DOWN/Yo, this gym uses fire-types! I hope you've got a water-type!
+CinnabarIsland;GIRL 12 5 RIGHT/Volcanoes make me nervous, but the science is fascinating.
+GAMBLER 14 6 DOWN/Those machines must have cost a fortune!
+CinnabarLabFossilRoom;SCIENTIST 5 2 RIGHT/Fossils are like messages from the past.
+SCIENTIST 7 6 UP/Be careful, some samples are fragile.
+CinnabarLab;FISHING_GURU 1 3 DOWN/Nothing beats fishing by warm volcanic waters.
+CinnabarLabMetronomeRoom;SCIENTIST 7 2 DOWN/This device can bring Pokémon back from extinction.
+SCIENTIST 2 3 RIGHT/Metronome is unpredictable, just like science itself.
+CinnabarMart;CLERK 0 5 RIGHT/Intruder alert!
+SILPH_WORKER_F 6 2 DOWN/I work at the Silph Company! Have you heard of it?
+SCIENTIST 3 4 DOWN/Nothing like grabbing a snack during your break... just don't tell my boss!
+CinnabarPokecenter;NURSE 3 1 DOWN/Intruder!
+COOLTRAINER_F 9 4 DOWN/Oh man, I got burned pretty badly...
+GENTLEMAN 2 6 DOWN/Well hello there! Aren't you lovely!
+LINK_RECEPTIONIST 11 2 DOWN/Oh, did you want to get through here? Yeah, you'd like that, wouldn't you?
+CopycatsHouse1F;MIDDLE_AGED_WOMAN 2 2 DOWN/Fair warning, we have a very eccentric daugther!
+MIDDLE_AGED_MAN 5 4 LEFT/Are you here to babysit? Perfect, we can have a date night now!
+Colosseum;RED 2 2 DOWN/GET OUT OF HERE!
+DiglettsCaveRoute11;GAMBLER 2 3 DOWN/I was robbed down there, I'd be careful!
+DiglettsCaveRoute2;FISHING_GURU 3 3 DOWN/The guy on the other side lies, don't listen to him!
+FuchsiaBillsGrandpasHouse;MIDDLE_AGED_WOMAN 2 3 RIGHT/Bill used to tinker with everything in this house.
+GAMBLER 7 2 UP/Heh, Fuchsia's always good for a gamble.
+YOUNGSTER 5 5 DOWN/I wonder if Bill's grandpa still remembers me.
+FuchsiaCity;YOUNGSTER 10 12 RIGHT/The Safari Zone is just beyond these gates!
+GAMBLER 28 17 RIGHT/You can't win big without taking risks.
+FISHER 30 14 DOWN/The fish bite better when it's foggy.
+YOUNGSTER 24 8 UP/I'm training hard so I can go to the Safari Zone alone.
+POKE_BALL 25 6 DOWN/An ordinary Poké Ball lies here.
+SEEL 8 17 DOWN/Seel is basking in the cool marsh air.
+FOSSIL 6 5 DOWN/An old fossil is half-buried in the ground.
+FuchsiaMart;CLERK 0 5 RIGHT/NO!
+MIDDLE_AGED_MAN 4 2 DOWN/I feel so bad for those pokemon on display.
+COOLTRAINER_F 6 5 UP/Have you been to the dungeon? You know the one!
+FuchsiaPokecenter;NURSE 3 1 DOWN/NO!
+ROCKER 2 3 DOWN/Hey broseph, you should rock out with me!
+COOLTRAINER_F 6 5 RIGHT/I REALLY do not think you should be rocking out with strangers.
+LINK_RECEPTIONIST 11 2 DOWN/Oh, did you want to get through here? Yeah, you'd like that, wouldn't you?
+FuchsiaGym;GYM_GUIDE 7 15 DOWN/Hello... poison, have you heard of it? PSYCHIC, that's what I'd recommend!
+FuchsiaMeetingRoom;SAFARI_ZONE_WORKER 4 1 DOWN/And then *I* was like-
+SAFARI_ZONE_WORKER 0 2 UP/What? He said THAT?!
+SAFARI_ZONE_WORKER 10 1 DOWN/Well isn't that something!
+GameCorner;BEAUTY 2 6 DOWN/Try your luck, the odds favor the bold.
+CLERK 5 6 DOWN/Please exchange your coins at the counter.
+MIDDLE_AGED_MAN 2 10 LEFT/The slots were better back in my day.
+BEAUTY 2 13 LEFT/A little risk makes life exciting.
+FISHING_GURU 5 11 RIGHT/The Game Corner hum never gets old.
+MIDDLE_AGED_WOMAN 8 11 LEFT/I just came for the free snacks.
+GYM_GUIDE 8 14 LEFT/House rules are posted behind me.
+GAMBLER 11 15 RIGHT/If you need help, I'm your guide.
+CLERK 14 11 LEFT/I've hit the jackpot once, just once.
+GENTLEMAN 17 13 RIGHT/Prizes this way, don't forget your tickets.
+GameCornerPrizeRoom;BALDING_GUY 1 4 DOWN/I've seen rookies win big in here.
+GAMBLER 7 3 RIGHT/Pick your prize carefully, trainer.
+IndigoPlateauLobby;NURSE 7 5 DOWN/NO!
+GYM_GUIDE 4 9 RIGHT/I've gotta be honest with you, I have absolutely no confidence in you.
+COOLTRAINER_F 5 1 DOWN/CRUD, I lost again! Maybe I should catch new pokemon.
+CLERK 0 5 RIGHT/NO!
+LINK_RECEPTIONIST 13 6 DOWN/Oh, did you want to get through here? Yeah, you'd like that, wouldn't you?
+LavenderCuboneHouse;BRUNETTE_GIRL 2 4 RIGHT/Have you heard of Cubone? I've always wanted to meet one.
+LavenderMart;CLERK 0 5 RIGHT/NO!
+BALDING_GUY 3 4 DOWN/They didn't tell me my hair would start thinning... it's not too bad, is it?
+COOLTRAINER_M 7 2 DOWN/It's days like these, maaan, let me tell you!
+LavenderPokecenter;NURSE 3 1 DOWN/NO!
+GENTLEMAN 5 3 DOWN/My mustache itches, can you scratch it?
+LITTLE_GIRL 2 6 UP/My mom is soo mean, will you adopt me?
+LINK_RECEPTIONIST 11 2 DOWN/Oh, did you want to get through here? Yeah, you'd like that, wouldn't you?
+LavenderTown;LITTLE_GIRL 15 9 DOWN/Man, this is the worst vacation ever! I swear my room is haunted...
+COOLTRAINER_M 9 10 DOWN/I'M A GHOST! Haha, just kidding... or am I?
+SUPER_NERD 8 7 RIGHT/Purple is my favorite color! What's yours?
+MrFujisHouse;SUPER_NERD 3 5 DOWN/I wonder where Mr. Fuji ran off to...
+LITTLE_GIRL 6 3 DOWN/Honestly, good riddance to that old fool, he ALWAYS made me wash the dishes!
+MtMoonPokecenter;NURSE 3 1 DOWN/NO!
+YOUNGSTER 4 3 UP/The Moon Mountain is apon us, stay close...
+GENTLEMAN 7 3 UP/My friends call me the gentleman... what's your name?
+MIDDLE_AGED_MAN 10 6 RIGHT/My son speaks in riddles! How can I ever love him?
+LINK_RECEPTIONIST 11 2 DOWN/You really need to step away RIGHT NOW!
+Museum1F;SCIENTIST 12 4 LEFT/Dinosaurs once walked where we stand.
+GAMBLER 1 4 DOWN/I lost all my money in the Game Corner again...
+SCIENTIST 15 2 DOWN/These fossils are older than anyone can imagine.
+SCIENTIST 17 4 DOWN/Every specimen here tells a story.
+Museum2F;YOUNGSTER 1 7 RIGHT/I want to be an archaeologist someday!
+GRAMPS 0 5 DOWN/Oak used to bring me here when I was little.
+SCIENTIST 7 5 DOWN/The museum helps us understand Pokémon history.
+BRUNETTE_GIRL 11 5 DOWN/This place feels a little spooky, doesn't it?
+HIKER 12 5 DOWN/Rocks remember things people forget.
+OaksLab;GIRL 1 9 UP/I wonder where Professor Oak is today.
+SCIENTIST 2 10 DOWN/Please don't touch the equipment.
+SCIENTIST 8 10 DOWN/These machines help analyze Pokémon data.
+NameRatersHouse;SILPH_PRESIDENT 5 3 LEFT/Nicknames, huh? Yeah, they're important alright!
+PalletTown;GIRL 3 8 DOWN/Just a small town giiirl.
+FISHER 11 14 DOWN/Living in a looonely woooorld!
+PewterGym;GYM_GUIDE 7 10 DOWN/Hey buster brown! This here is a rock-type gym, ROCK ON! I feel very bad for you if you have a Charmander.
+PewterMart;CLERK 0 5 RIGHT/NO!
+YOUNGSTER 3 3 UP/I want to work here when I grow up! Although being unemployed is nice, too.
+SUPER_NERD 5 5 DOWN/Quit bungling about, you're going to knock something over!
+PewterCity;COOLTRAINER_F 8 15 DOWN/Pewter's gym leader is tougher than he looks.
+COOLTRAINER_M 17 25 DOWN/The mountain air keeps you sharp.
+SUPER_NERD 27 17 DOWN/I built my first Pokédex model right here in town.
+SUPER_NERD 26 25 RIGHT/Fossils from Mt. Moon are priceless.
+YOUNGSTER 35 16 DOWN/I'm training so I can beat Brock someday.
+PewterNidoranHouse;LITTLE_BOY 3 5 RIGHT/My Nidoran is growing up so fast!
+MIDDLE_AGED_MAN 1 2 DOWN/Brock used to play here when he was a kid.
+PewterPokecenter;NURSE 3 1 DOWN/MEOW!
+GENTLEMAN 11 7 LEFT/I love trains! Do you know where I can catch one?
+LINK_RECEPTIONIST 11 2 DOWN/Oh, did you want to get through here? Yeah, you'd like that, wouldn't you?
+PewterSpeechHouse;GAMBLER 2 3 RIGHT/Yeah, yeah, I'm a pretty smart dude! But can I ask you a question?
+YOUNGSTER 4 5 DOWN/AHHHH! How was my scream? Pretty good, right?
+PokemonMansion2F;SUPER_NERD 3 17 RIGHT/Oh no, he's loose...
+PokemonMansion1F;SCIENTIST 17 17 LEFT/Okay I'll admit, cloning and gene tampering might not have been my best idea!
+PokemonMansion3F;SUPER_NERD 5 11 RIGHT/Hey, have you seen a cat-like pokemon? We may have... messed up...
+SCIENTIST 20 11 LEFT/Hi! Do you like my coat? It's comfy and easy to wear!
+PokemonFanClub;FISHER 6 3 LEFT/I've been in a lot of clubs in my life, but this one is my favorite!
+GIRL 1 3 RIGHT/Look at my Seel! Soo cute!
+SEEL 1 4 RIGHT/BUHH!
+LINK_RECEPTIONIST 5 1 DOWN/Hey now, don't interrupt the master! He's very busy.
+PokemonTower1F;LINK_RECEPTIONIST 15 13 UP/BUH!
+MIDDLE_AGED_WOMAN 6 8 DOWN/What? Don't call me that, it's rude!
+BALDING_GUY 8 12 DOWN/YOU ARE SO BEAUTIFUL! I mean, hi!
+GIRL 13 7 DOWN/The men in this town are just awful, they'll flirt with anybody!
+CHANNELER 17 7 LEFT/I'm looking to expand my family, will you be my child?
+PokemonMansionB1F;SUPER_NERD 16 23 DOWN/Are you lost? You don't look like a scientist to me!
+SCIENTIST 27 11 DOWN/Anybody can be a scientist! Me? No, no, I'm a cosplayer.
+PokemonTower5F;CHANNELER 14 3 LEFT/MY SISTERS MUST BE POSSESSED! Can you take me away from here?
+RedsHouse1F;MOM 5 4 LEFT/Hello my child. Come sit and enjoy the feast in your favorite chair, perhaps something good will happen!
+RockTunnelPokecenter;NURSE 3 1 DOWN/NOO!
+GENTLEMAN 7 3 RIGHT/Yes? Yes!... no? Well okay.
+FISHER 2 5 DOWN/Magikarp? Yes, that IS the strongest pokemon, how did you know?
+LINK_RECEPTIONIST 11 2 DOWN/Oh, did you want to get through here? Yeah, you'd like that, wouldn't you?
+Route1;YOUNGSTER 5 24 UP/Hey pal, wanna battle? No? Okay.
+YOUNGSTER 15 13 RIGHT/'Scuse me, have you seen Voltorb? That one's my favorite!
+Route10;COOLTRAINER_F 7 54 DOWN/Rock Tunnel gets darker the deeper you go.
+Route11Gate1F;GUARD 4 1 DOWN/Only authorized trainers may pass.
+Route11Gate2F;YOUNGSTER 4 2 RIGHT/I'm heading to Vermilion as soon as I can.
+Route12Gate1F;GUARD 1 3 DOWN/Please present your badge at the counter.
+Route15Gate1F;GUARD 4 1 DOWN/This gate connects two very different routes.
+Route16Gate1F;GUARD 4 8 DOWN/What do you think of these muscles? Heh.
+GAMBLER 4 3 DOWN/I came here to watch the trainers go by.
+Route16Gate2F;LITTLE_BOY 4 2 DOWN/I bet you've traveled far already!
+LITTLE_GIRL 2 5 RIGHT/I want to go on an adventure too.
+Route18Gate1F;GUARD 4 1 DOWN/Kanto is so much bigger than I thought.
+Route18Gate2F;YOUNGSTER 4 2 RIGHT/Make sure you're ready before heading north.
+Route2Gate;YOUNGSTER 5 4 RIGHT/I train here to build my endurance.
+Route4;COOLTRAINER_F 9 8 DOWN/Did you see the Power Plant nearby?
+SSAnne2F;WAITER 3 7 UP/Route 4 has some sneaky wild Pokémon.
+SSAnne1F;WAITER 12 6 RIGHT/Welcome aboard! Enjoy your trip.
+SAILOR 27 5 DOWN/Let me tell you, all the passengers are LOADED with cash! You? Hmm...
+SSAnne1FRooms;GENTLEMAN 28 4 LEFT/Yohoho and a bottle of yo! Ho?
+GIRL 17 4 UP/The sea air agrees with me.
+MIDDLE_AGED_MAN 10 3 DOWN/I've never been on a ship this big!
+LITTLE_GIRL 12 5 DOWN/The captain loves his rare Pokémon.
+GIRL 5 4 RIGHT/I hope we don't hit any storms.
+SSAnneB1FRooms;FISHER 0 4 RIGHT/These cabins are surprisingly cozy.
+SSAnneBow;SUPER_NERD 5 2 UP/Fishing from a moving ship is tricky.
+COOLTRAINER_M 7 11 DOWN/I'm mapping the layout of the ship.
+SAILOR 10 8 UP/The view from here is incredible.
+SSAnneKitchen;COOK 1 8 UP/Make sure your footing is steady on deck.
+COOK 5 8 UP/We're prepping a feast for the voyage.
+COOK 9 7 UP/Keep the stoves at a steady flame.
+COOK 13 6 DOWN/Don't let the soup boil over!
+COOK 13 8 DOWN/Fresh ingredients make all the difference.
+COOK 13 10 DOWN/We never stop cooking down here.
+COOK 11 13 UP/Everything must be served piping hot.
+SafariZoneCenterRestHouse;GIRL 3 2 DOWN/The captain expects perfection.
+SCIENTIST 1 4 UP/I love exploring the tall grass without worry.
+SafariZoneEastRestHouse;SCIENTIST 1 3 UP/These Pokémon patterns are fascinating!
+ROCKER 4 2 DOWN/Rock music keeps me energized while walking.
+SILPH_WORKER_M 5 2 DOWN/Silph Corporation's tech makes the Safari safer.
+SafariZoneNorthRestHouse;SCIENTIST 6 3 RIGHT/I never knew there were so many rare species here.
+SAFARI_ZONE_WORKER 3 4 DOWN/Data collection is key to understanding wild Pokémon.
+GENTLEMAN 1 5 UP/Be careful, some Pokémon are shy around humans.
+SafariZoneWestRestHouse;SCIENTIST 4 4 DOWN/Studying Pokémon behavior is so rewarding.
+COOLTRAINER_M 0 2 RIGHT/I've been training my party to react quickly.
+SILPH_WORKER_F 6 2 DOWN/Silph's research helps trainers like you.
+SaffronGym;GYM_GUIDE 10 15 DOWN/Mister! This gym has psychic-types, so you'd better have... uhh, a bug or something?
+SaffronCity;ROCKET 20 8 RIGHT/Don't get in my way or you'll regret it.
+ROCKET 11 25 RIGHT/Hehe, with Team Rocket in charge I can do anything!
+ROCKET 32 13 RIGHT/Silph Corp keeps the city running smoothly.
+ROCKET 18 30 RIGHT/Music makes even city life bearable.
+SCIENTIST 8 14 DOWN/Science always comes first, even here.
+SILPH_WORKER_M 23 23 DOWN/I've got work to do, no time for visitors.
+SILPH_WORKER_F 17 30 RIGHT/I admire trainers who follow the rules.
+GENTLEMAN 30 12 DOWN/This area is heavily secured - beware.
+ROCKER 18 8 UP/We don't tolerate troublemakers in Saffron.
+ROCKET 22 22 LEFT/Stay clear, or you might get caught.
+SaffronMart;CLERK 0 5 RIGHT/NO!
+COOLTRAINER_F 6 5 DOWN/Psst, I bet we could get away with ANYTHING in here! What do you say?
+SaffronPidgeyHouse;BRUNETTE_GIRL 2 3 RIGHT/I just love spending time with my Pidgey.
+YOUNGSTER 4 1 DOWN/I'm training hard to be a top trainer!
+PAPER 3 3 DOWN/There's a note here... I wonder who left it.
+SaffronPokecenter;NURSE 3 1 DOWN/NO!
+BEAUTY 5 5 DOWN/Looking good today, trainer!
+GENTLEMAN 8 3 DOWN/Heal often, it's free!
+LINK_RECEPTIONIST 11 2 DOWN/Oh, did you want to get through here? Yeah, you'd like that, wouldn't you?
+SilphCo1F;LINK_RECEPTIONIST 4 2 DOWN/NO!
+SilphCo11F;BEAUTY 10 5 DOWN/Hey, what are you staring at?
+SilphCo3F;SILPH_WORKER_M 24 8 DOWN/Help, we're trapped!
+SilphCo4F;SILPH_WORKER_M 6 2 DOWN/I am soo scared.
+SilphCo6F;SILPH_WORKER_M 10 6 DOWN/Please, don't let them hurt us...  
+SILPH_WORKER_M 20 6 DOWN/We're trapped here... save us, trainer!  
+SILPH_WORKER_F 21 6 DOWN/I just wanted to finish my work...  
+SILPH_WORKER_F 11 10 RIGHT/They've taken control of the building!  
+SILPH_WORKER_M 18 13 UP/Stay back! They've got Pokémon ready to fight!  
+SilphCo7F;SILPH_WORKER_M 1 5 DOWN/I can't move without risking my life...  
+SILPH_WORKER_M 13 13 UP/Hurry, the boss is dangerous!  
+SILPH_WORKER_M 7 10 DOWN/Don't let them take any more Pokémon!  
+SILPH_WORKER_F 10 8 DOWN/We're counting on you to stop them...  
+SilphCo8F;SILPH_WORKER_M 4 2 DOWN/I hope someone comes before it's too late...
+SilphCo9F;NURSE 3 14 DOWN/Darn, if only I had my equipment! I could fix you up in a jiffy.
+TradeCenter;RED 2 2 RIGHT/LEAVE ME TO MY CHAMBERS!
+UndergroundPathRoute7;MIDDLE_AGED_MAN 2 4 DOWN/I'm lost, can you help me find the bathroom?
+UndergroundPathRoute5;LITTLE_GIRL 2 3 DOWN/Crazy how the tunnels connect, huh? I heard Digletts helped with construction!
+UndergroundPathRoute6;GIRL 2 3 DOWN/Oddish, yes! That's right!
+UndergroundPathRoute8;GIRL 3 4 DOWN/I walk these routes sometimes. If you see me, say hello!
+VermilionCity;BEAUTY 19 7 RIGHT/I've heard that some pokemon evolve through trading... I wonder how you could do that!
+GAMBLER 14 6 DOWN/I just honestly... yeah. You know?
+GAMBLER 30 7 DOWN/This city is so beautiful! You should watch the sea at night.
+SAILOR 25 27 RIGHT/Sailing is my hobby, but I lost all my pokemon! Can you help me find them?
+VermilionGym;GYM_GUIDE 4 14 DOWN/Oh, oh, OH! Boss, this is an electric-type gym! Go catch a Diglett NOW!
+VermilionMart;CLERK 0 5 RIGHT/NO!
+COOLTRAINER_M 5 6 DOWN/Sometimes I wonder... how can the clerk hear us from behind the counter?
+COOLTRAINER_F 3 3 RIGHT/Oh no, you've got a crush on me, don't you? I'm only gonna break your heart!
+VermilionPokecenter;NURSE 3 1 DOWN/NO!
+FISHING_GURU 10 5 DOWN/Tales of a far-away region have blessed my ears... Johto! I'd love to visit some day.
+SAILOR 5 4 DOWN/I've been living here for days now, I wonder if anybody's noticed.
+VermilionPidgeyHouse;PAPER 4 3 DOWN/Huh, just a piece of paper? Useless.
+ViridianCity;YOUNGSTER 13 20 DOWN/You're from Pallet Town? I love visting there!
+YOUNGSTER 30 25 DOWN/I might be young, but I know a strong trainer when I see one! I'll tell you if any pass by.
+ViridianForestNorthGate;SUPER_NERD 3 2 DOWN/Did you enjoy the woods? Personally, I'm always a little scared in there.
+GRAMPS 2 5 DOWN/On your way north, eh? That's actually my favorite direction!!
+ViridianForestSouthGate;GIRL 8 4 LEFT/My sister and I hangout here for fun. Do you have friends?
+LITTLE_GIRL 2 4 UP/Hi, you look friendly! Now please leave.
+ViridianForest;YOUNGSTER 16 43 DOWN/Birds are so pretty! I hate bugs, though.
+YOUNGSTER 27 40 DOWN/I'm looking for a girlfriend. She should be around here somewhere!
+ViridianNicknameHouse;BALDING_GUY 5 3 DOWN/Gaming, yes! That's what life is all about.
+LITTLE_GIRL 1 4 UP/I don't know this man, can you rescue me?
+ViridianMart;CLERK 0 5 RIGHT/NO!
+YOUNGSTER 5 5 UP/Hey trainer, you look new to shopping! Pro-tip: buy repels... oh wait.
+COOLTRAINER_M 3 3 DOWN/You must be new in town, I'm the city champion! Oh yeah, no trainers stronger than me here...
+ViridianGym;GYM_GUIDE 16 15 DOWN/You finally made it! Ground-types rule here, how about you get them WET?!
+ViridianPokecenter;NURSE 3 1 DOWN/NO!
+GENTLEMAN 10 5 UP/Hiya sonny, are you catching lots of pokemon? Jay will be so proud.
+COOLTRAINER_M 4 3 DOWN/I've heard a super strong trainer lives around here. I wonder where, though...
+LINK_RECEPTIONIST 11 2 DOWN/Howdy, you must be new here! Don't talk to me, ever.
+ViridianBunglerHouse;BIKE_SHOP_CLERK 3 2 UP/...are you sure? You are so weak. NOBODY can SAVE you down there.
+Daycare;BLUE 5 4 LEFT/Yum yum, I'm the breeder! I'll borrow your pokemon to make more beautiful children with... just give me a second......
+SafariZoneCenter;GYM_GUIDE 13 23 RIGHT/Feeling trapped? Perhaps these lonely statues want to be talked to... make sure to look them in the eyes!
+Route24;COOLTRAINER_F 19 0 RIGHT/Yes, I AM dancing because Matt is so cool!...Me? No, I'm not Matt in disguise! I just think I'm... I mean, HE'S very cool!
